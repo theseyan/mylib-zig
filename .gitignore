@@ -1,0 +1,8 @@
+zig-out
+zig-cache
+test
+.vscode
+*.dll
+*.lib
+*.obj
+src/zig-cache
